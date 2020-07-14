@@ -7,7 +7,8 @@ Ever stuck in writing the same CSS rules for different every web project? I do i
 
 **The basics**
 
-All dimensions are in em.
+* All dimensions are in em.
+* Clsses only, no IDs
 
 **How to use**
 
